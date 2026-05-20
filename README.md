@@ -44,3 +44,15 @@ This project is useful for beginners to understand how AI text generation works.
 
 This project shows how Artificial Intelligence can generate human-like text automatically using Python and GPT-2. By using Google Colab and Hugging Face, even beginners can easily build AI-based text generation applications without advanced programming knowledge.
 
+GPT-2 stands for Generative Pre-trained Transformer 2.
+
+Generative → It can generate or create new text.
+
+Pre-trained → The model is already trained on a large amount of internet text before being used.
+
+Transformer → It uses a deep learning architecture called Transformer, which helps the model understand language patterns and context.
+
+2 → It is the second version of the GPT model developed by OpenAI.
+
+
+GPT-2 is an Artificial Intelligence language model that can generate human-like text such as paragraphs, stories, answers, articles, and conversations based on user input.
