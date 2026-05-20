@@ -56,3 +56,8 @@ Transformer → It uses a deep learning architecture called Transformer, which h
 
 
 GPT-2 is an Artificial Intelligence language model that can generate human-like text such as paragraphs, stories, answers, articles, and conversations based on user input.
+
+
+# OUTPUT
+
+<img width="1058" height="421" alt="Image" src="https://github.com/user-attachments/assets/e79db401-e318-4589-b538-6976cf680d93" />
